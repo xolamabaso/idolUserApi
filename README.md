@@ -29,6 +29,5 @@ DELETE  User  /api/v1/users/1
 DELETE Users  /api/v1/users
 ``
 
-`
 ### CRUD Operations
-When creating a new User they will be stored in
+When creating a new User they will be stored in the in memory database
