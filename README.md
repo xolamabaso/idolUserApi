@@ -1,5 +1,5 @@
 # Sring Boot REST API with Maven
- Spring Boot CRUD RESTful API with H2 Database for data persitence.  
+ Spring Boot CRUD RESTful API with H2 Database for data persistence.  
 
 ## H2 Database UI
 To connect and view database
