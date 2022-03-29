@@ -8,6 +8,12 @@ http://localhost:8080/h2-ui
 `
 View application.properties to verify details with UI
 
+## SwaggerUI
+To view the swagger API UI  
+`
+http://localhost:8080/swagger-ui.html
+`
+
 ## URLs
 Some basic requests are:
 ### GET
